@@ -1,0 +1,10 @@
+python-dotenv
+openai
+requests
+flask
+chromadb
+langchain
+langchain-openai
+langchain-core
+langchain-community
+ipykernel
